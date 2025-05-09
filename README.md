@@ -1,13 +1,10 @@
-Based on your resume, here’s a professional and well-structured GitHub profile `README.md` file you can use to highlight your background, skills, and interests:
-
----
 
 ### 👋 Hi, I'm Yelkapally Manasa
 
-🎓 Electronics & Communication Engineering student at **JNTUH**
-📍 Passionate about **Embedded Systems**, **Smart Technologies**, and **Cybersecurity**
-🌱 Currently exploring data analysis using Python and smart automation solutions
-📫 Contact me:
+🎓 Electronics & Communication Engineering student at **Avanthi institute of engineering & technology**
+📍 Passionate about **Embedded Systems**
+🌱 Currently exploring data analysis using Python
+📫 Contact me:+91 6305452105
 📧 [ymanasa32@gmail.com](mailto:ymanasa32@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/manasa-yelkapally)
 
