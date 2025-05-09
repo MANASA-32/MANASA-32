@@ -64,11 +64,3 @@ AMBEST Technology, Dilsukhnagar (Dec 2021 – May 2022)
 * Tree Plantation Drives
 * Voter Awareness Campaigns
 * Swachh Bharat Participation
-
----
-
-> ✨ I’m excited to collaborate on tech-driven solutions that make everyday life easier and safer. Let’s connect!
-
----
-
-Would you like me to turn this into a `README.md` file ready for GitHub upload?
